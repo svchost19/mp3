@@ -1,1 +1,6 @@
-{"show_ads":"1", "cek_versi" : "1", "app_code" : "1"}
+{
+  "show_ads":"1", 
+  "cek_versi" : "1", 
+  "app_code" : "1", 
+  "admob" : "1"
+}
