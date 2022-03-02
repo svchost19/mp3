@@ -1,0 +1,121 @@
+{
+
+  "ADS": [
+
+    {
+
+      "select_main_ads": "ADMOB",
+
+      "select_backup_ads": "",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+
+      "backup_ads_banner": "",
+
+      "backup_ads_intertitial": "",
+	  
+	  "native_ads_admob": "ca-app-pub-3940256099942544/2247696110",
+
+      "initialize_sdk": "",
+
+      "initialize_sdk_backup_ads": "",
+
+      "interstitial_counter": "3",
+
+      "high_paying_keyword_1": "",
+
+      "high_paying_keyword_2": "",
+
+      "high_paying_keyword_3": "",
+
+      "high_paying_keyword_4": "",
+
+      "high_paying_keyword_5": "",
+
+      "status_app": "0",
+
+      "link_redirect": "https://"
+
+    }
+
+  ],
+
+  "DATA": [
+
+    {
+
+      "id": 1,
+
+      "album": "WARKOP",
+
+      "artist": "WARKOP",
+
+      "duration": "19:40",
+
+      "image": "https://cdn-brilio-net.akamaized.net/news/2017/03/10/122703/10-foto-lawas-para-anggota-warkop-dki-bikin-kangen-deh-170310w.jpg",
+
+      "title": "WARKOP Part 1",
+
+      "url": "https://www.mboxdrive.com/lawak_warkop_1a.mp3"
+
+    },
+
+    {
+
+      "id": 2,
+
+       "album": "WARKOP",
+
+      "artist": "WARKOP",
+
+      "duration": "21:32",
+
+      "image": "https://cdn-brilio-net.akamaized.net/news/2017/03/10/122703/10-foto-lawas-para-anggota-warkop-dki-bikin-kangen-deh-170310w.jpg",
+
+      "title": "WARKOP Part 2",
+
+      "url": "https://www.mboxdrive.com/lawak_warkop_1b.mp3"
+
+    },
+
+    {
+
+      "id": 3,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:18",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Playing With Fire",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+
+    {
+
+      "id": 4,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Stay",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    }
+
+  ]
+
+}
